@@ -1,0 +1,17 @@
+Newsprint	Газета	GEAR_Newsprint	Огонь, сигналы и боеприпасы	Обычный	размокнет
+Newsprint Roll	Рулон газет	GEAR_NewsprintRoll	Огонь, сигналы и боеприпасы	Редкий	размокнет
+Stack of Papers	Стопка бумаги	GEAR_PaperStack	Огонь, сигналы и боеприпасы	Редкий	размокнет
+Book	Книга	GEAR_BookA … GEAR_BookI	Хлам, дерево и материалы	Редкий	размокнет
+Stone	Камень	GEAR_Stone	Хлам, дерево и материалы	Обычный	решено не добавлять
+The Frozen Angler	Книга «Замёрзший рыболов»	GEAR_BookIceFishing	Рыбалка и стрелы	Очень редкий	решено не добавлять
+Can Opener	Консервный нож	GEAR_CanOpener	Инструменты и снаряжение	Редкий	нет в Beachcombing по вики
+Rabbit Carcass	Тушка зайца	GEAR_RabbitCarcass	Природное	Редкий	решено удалить
+Water (Potable)	Питьевая вода 0.5 л	GEAR_Water500ml	Еда	Редкий	в 2.x это жидкость
+Coho Salmon (Raw)	Кижуч (сырой)	GEAR_RawCohoSalmon	Природное	Обычный	рыба и так ловится
+Smallmouth Bass (Raw)	Малоротый окунь (сырой)	GEAR_RawSmallMouthBass	Природное	Обычный	рыба и так ловится
+Cat Tail Head	Початок рогоза	GEAR_CattailTinder	Природное	Обычный	решено удалить
+Crow Feather	Воронье перо	GEAR_CrowFeather	Природное	Обычный	решено удалить
+Lantern Fuel	Керосин	GEAR_LampFuel	Огонь, сигналы и боеприпасы	Редкий	топливо даёт рыба
+Cured Rabbit Pelt	Выделанная заячья шкурка	GEAR_RabbitPeltDried	Хлам, дерево и материалы	Редкий	легко добыть силками
+Bandage	Бинт	GEAR_HeavyBandage	Медицина	Редкий	крафтится из ткани
+Tinder Plug	Трут	GEAR_Tinder	Огонь, сигналы и боеприпасы	Обычный	крафтится из палки

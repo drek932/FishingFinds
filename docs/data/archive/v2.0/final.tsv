@@ -1,0 +1,130 @@
+Хлам и дерево	28	Частый	Stick	Палка	GEAR_Stick
+Хлам и дерево	28	Частый	Reclaimed Wood	Старые доски	GEAR_ReclaimedWoodB
+Хлам и дерево	28	Обычный	Cedar Firewood	Кедровые дрова	GEAR_Softwood
+Хлам и дерево	28	Обычный	Fir Firewood	Еловые дрова	GEAR_Hardwood
+Хлам и дерево	28	Обычный	Scrap Metal	Металлолом	GEAR_ScrapMetal
+Хлам и дерево	28	Обычный	Recycled Can	Пустая жестяная банка	GEAR_RecycledCan
+Хлам и дерево	28	Обычный	Rifle Shell Casing	Винтовочная гильза	GEAR_RifleAmmoCasing
+Хлам и дерево	28	Обычный	Spray Paint	Баллончик с краской	GEAR_SprayPaintCan
+Хлам и дерево	28	Обычный	Wires	Провода (DLC)	GEAR_WireBundle
+Хлам и дерево	28	Обычный	Canister	Фильтр для респиратора (DLC)	GEAR_Canister
+Хлам и дерево	28	Редкий	Replacement Fuse	Предохранитель (DLC)	GEAR_Fuse
+Хлам и дерево	28	Исключительный	Jerry Can	Канистра	GEAR_JerrycanRusty
+Природное	8	Обычный	Green Birch Sapling	Саженец берёзы	GEAR_BirchSapling
+Природное	8	Обычный	Birch Bark	Берёзовая кора	GEAR_BarkTinder
+Природное	8	Обычный	Cat Tail Stalk	Стебель рогоза	GEAR_CattailStalk
+Природное	8	Редкий	Green Maple Sapling	Саженец клёна	GEAR_MapleSapling
+Природное	8	Редкий	Old Man's Beard Lichen	Лишайник «борода старика»	GEAR_OldMansBeardHarvested
+Рыболовное	8	Обычный	Hook	Крючок	GEAR_Hook
+Рыболовное	8	Обычный	Line	Леска	GEAR_Line
+Рыболовное	8	Редкий	Fishing Tackle	Рыболовная снасть	GEAR_HookAndLine
+Огонь и химия	4	Редкий	Charcoal	Уголь	GEAR_Charcoal
+Огонь и химия	4	Редкий	Cardboard Matches	Картонные спички	GEAR_PackMatches
+Огонь и химия	4	Редкий	Wood Matches	Деревянные спички	GEAR_WoodMatches
+Огонь и химия	4	Редкий	Accelerant	Средство для розжига	GEAR_Accelerant
+Огонь и химия	4	Редкий	Stump Remover	Средство для удаления пней	GEAR_StumpRemover
+Огонь и химия	4	Редкий	Dusting Sulfur	Порошковая сера	GEAR_DustingSulfur
+Еда в банках	8	Обычный	Pork and Beans	Свинина с бобами	GEAR_CannedBeans
+Еда в банках	8	Обычный	Tin of Sardines	Сардины	GEAR_CannedSardines
+Еда в банках	8	Обычный	Tomato Soup	Томатный суп	GEAR_TomatoSoupCan
+Еда в банках	8	Обычный	Dog Food	Собачий корм	GEAR_DogFood
+Еда в банках	8	Обычный	Summit Soda	Газировка «Саммит»	GEAR_Soda
+Еда в банках	8	Обычный	Orange Soda	Апельсиновая газировка	GEAR_SodaOrange
+Еда в банках	8	Обычный	Stacy's Grape Soda	Виноградная газировка «Стейси»	GEAR_SodaGrape
+Еда в банках	8	Редкий	Pinnacle Peaches	Персики «Пиннакл»	GEAR_PinnacleCanPeaches
+Еда в банках	8	Редкий	Condensed Milk	Сгущёнка	GEAR_CondensedMilk
+Еда в банках	8	Редкий	Go! Energy Drink	Энергетик «Go!»	GEAR_SodaEnergy
+Еда в банках	8	Редкий	Maple Syrup	Кленовый сироп	GEAR_MapleSyrup
+Еда в банках	8	Очень редкий	Military-Grade MRE	Армейский сухпаёк	GEAR_MRE
+Еда в упаковке	5	Обычный	Beef Jerky	Вяленая говядина	GEAR_BeefJerky
+Еда в упаковке	5	Редкий	Chocolate Bar	Шоколадный батончик	GEAR_CandyBar
+Еда в упаковке	5	Редкий	Granola Bar	Батончик мюсли	GEAR_GranolaBar
+Еда в упаковке	5	Редкий	Energy Bar	Энергетический батончик	GEAR_EnergyBar
+Еда в упаковке	5	Редкий	Ketchup Chips	Чипсы с кетчупом	GEAR_KetchupChips
+Еда в упаковке	5	Редкий	Salty Crackers	Солёные крекеры	GEAR_Crackers
+Еда в упаковке	5	Очень редкий	Herbal Tea	Травяной чай	GEAR_GreenTeaPackage
+Стрелы	5	Обычный	Arrow Shaft	Древко стрелы	GEAR_ArrowShaft
+Стрелы	5	Обычный	Fire Hardened Arrow	Стрела, закалённая огнём	GEAR_ArrowHardened
+Стрелы	5	Обычный	Broken Fire Hardened Arrow	Сломанная закалённая стрела	GEAR_BrokenArrowHardened
+Стрелы	5	Редкий	Broken Arrow	Сломанная стрела	GEAR_BrokenArrow
+Стрелы	5	Редкий	Arrowhead	Наконечник стрелы	GEAR_ArrowHead
+Стрелы	5	Очень редкий	Simple Arrow	Простая стрела	GEAR_Arrow
+Сигнальное и боеприпасы	4	Обычный	Marine Flare	Морской фальшфейер	GEAR_BlueFlare
+Сигнальное и боеприпасы	4	Редкий	Flare	Сигнальный фальшфейер	GEAR_FlareA
+Сигнальное и боеприпасы	4	Очень редкий	Flare Shell	Сигнальный патрон	GEAR_FlareGunAmmoSingle
+Сигнальное и боеприпасы	4	Очень редкий	Rifle Cartridge	Винтовочный патрон	GEAR_RifleAmmoSingle
+Сигнальное и боеприпасы	4	Очень редкий	Revolver Cartridge	Револьверный патрон	GEAR_RevolverAmmoSingle
+Сигнальное и боеприпасы	4	Исключительный	Distress Pistol	Сигнальный пистолет	GEAR_FlareGun
+Инструменты и снаряжение	5	Частый	Improvised Knife	Самодельный нож	GEAR_KnifeImprovised
+Инструменты и снаряжение	5	Обычный	Hunting Knife	Охотничий нож	GEAR_Knife
+Инструменты и снаряжение	5	Обычный	Hatchet	Топор	GEAR_Hatchet
+Инструменты и снаряжение	5	Обычный	Hacksaw	Ножовка	GEAR_Hacksaw
+Инструменты и снаряжение	5	Обычный	Sewing Kit	Швейный набор	GEAR_SewingKit
+Инструменты и снаряжение	5	Редкий	Simple Tools	Простые инструменты	GEAR_SimpleTools
+Инструменты и снаряжение	5	Редкий	Whetstone	Точильный камень	GEAR_SharpeningStone
+Инструменты и снаряжение	5	Редкий	Firearm Cleaning Kit	Набор для чистки оружия	GEAR_RifleCleaningKit
+Инструменты и снаряжение	5	Очень редкий	Quality Tools	Качественные инструменты	GEAR_HighQualityTools
+Инструменты и снаряжение	5	Очень редкий	Flashlight	Фонарик	GEAR_Flashlight
+Материалы	5	Обычный	Cloth	Ткань	GEAR_Cloth
+Материалы	5	Редкий	Cured Leather	Выделанная кожа	GEAR_LeatherDried
+Медицина	2	Редкий	Painkillers	Обезболивающее	GEAR_BottlePainKillers
+Медицина	2	Редкий	Water Purification Tablets	Таблетки для очистки воды	GEAR_WaterPurificationTablets
+Медицина	2	Редкий	Antiseptic	Антисептик	GEAR_BottleHydrogenPeroxide
+Медицина	2	Очень редкий	Antibiotics	Антибиотики	GEAR_BottleAntibiotics
+Медицина	2	Исключительный	Emergency Stim	Экстренный стимулятор	GEAR_EmergencyStim
+Одежда, мелкое	10	Обычный	Sports Socks	Спортивные носки	GEAR_CottonSocks
+Одежда, мелкое	10	Обычный	Cotton Toque	Хлопковая шапка	GEAR_BasicWoolHat
+Одежда, мелкое	10	Обычный	Baseball Cap	Бейсболка	GEAR_BaseballCap
+Одежда, мелкое	10	Обычный	Cotton Scarf	Хлопковый шарф	GEAR_CottonScarf
+Одежда, мелкое	10	Обычный	Work Gloves	Рабочие перчатки	GEAR_WorkGloves
+Одежда, мелкое	10	Обычный	Wool Mittens	Шерстяные варежки	GEAR_Mittens
+Одежда, мелкое	10	Обычный	Driving Gloves	Водительские перчатки	GEAR_BasicGloves
+Одежда, мелкое	10	Редкий	Wool Socks	Шерстяные носки	GEAR_WoolSocks
+Одежда, мелкое	10	Редкий	Wool Toque	Шерстяная шапка	GEAR_Toque
+Одежда, мелкое	10	Редкий	Wool Scarf	Шерстяной шарф	GEAR_BasicWoolScarf
+Одежда, мелкое	10	Редкий	Fleece Mittens	Флисовые варежки	GEAR_FleeceMittens
+Одежда, мелкое	10	Редкий	Ski Gloves	Лыжные перчатки	GEAR_SkiGloves
+Одежда, мелкое	10	Редкий	Balaclava	Балаклава	GEAR_Balaclava
+Одежда, мелкое	10	Редкий	Climbing Socks	Альпинистские носки	GEAR_ClimbingSocks
+Одежда, мелкое	10	Очень редкий	Gauntlets	Краги	GEAR_Gauntlets
+Одежда, мелкое	10	Очень редкий	Long Wool Scarf	Длинный шерстяной шарф	GEAR_WoolWrap
+Одежда, мелкое	10	Очень редкий	Aviator Cap	Лётный шлем (DLC)	GEAR_HatLeatherAviatorA
+Одежда, основная	5	Обычный	T-Shirt	Футболка	GEAR_TeeShirt
+Одежда, основная	5	Обычный	Dress Shirt	Рубашка	GEAR_CottonShirt
+Одежда, основная	5	Обычный	Plaid Shirt	Клетчатая рубашка	GEAR_PlaidShirt
+Одежда, основная	5	Обычный	Hoodie	Худи	GEAR_CottonHoodie
+Одежда, основная	5	Обычный	Sweatshirt	Свитшот	GEAR_FleeceSweater
+Одежда, основная	5	Обычный	Jeans	Джинсы	GEAR_Jeans
+Одежда, основная	5	Обычный	Work Pants	Рабочие брюки	GEAR_WorkPants
+Одежда, основная	5	Обычный	Thermal Underwear	Термобельё	GEAR_LongUnderwear
+Одежда, основная	5	Редкий	Wool Shirt	Шерстяная рубашка	GEAR_WoolShirt
+Одежда, основная	5	Редкий	Thin Wool Sweater	Тонкий шерстяной свитер	GEAR_WoolSweater
+Одежда, основная	5	Редкий	Sport Vest	Спортивный жилет	GEAR_InsulatedVest
+Одежда, основная	5	Редкий	Down Vest	Пуховый жилет	GEAR_DownVest
+Одежда, основная	5	Редкий	Hockey Jersey	Хоккейный свитер (DLC)	GEAR_JerseyHockeyA
+Одежда, основная	5	Редкий	Wool Longjohns	Шерстяные кальсоны	GEAR_LongUnderwearWool
+Одежда, основная	5	Редкий	Combat Pants	Армейские брюки	GEAR_CombatPants
+Одежда, основная	5	Редкий	Snow Pants	Лыжные штаны	GEAR_InsulatedPants
+Одежда, основная	5	Редкий	Cargo Pants	Брюки карго	GEAR_CargoPants
+Одежда, основная	5	Очень редкий	Thick Wool Sweater	Толстый шерстяной свитер	GEAR_HeavyWoolSweater
+Одежда, основная	5	Очень редкий	Fisherman's Sweater	Рыбацкий свитер	GEAR_FishermanSweater
+Одежда, основная	5	Очень редкий	Cowichan Sweater	Свитер «Кавичан»	GEAR_CowichanSweater
+Обувь	2	Редкий	Running Shoes	Кроссовки	GEAR_BasicShoes
+Обувь	2	Редкий	Leather Shoes	Кожаные туфли	GEAR_LeatherShoes
+Обувь	2	Очень редкий	Trail Boots	Походные ботинки	GEAR_BasicBoots
+Обувь	2	Очень редкий	Work Boots	Рабочие ботинки	GEAR_WorkBoots
+Обувь	2	Очень редкий	Combat Boots	Армейские ботинки	GEAR_CombatBoots
+Обувь	2	Очень редкий	Ski Boots	Лыжные ботинки	GEAR_SkiBoots
+Обувь	2	Исключительный	Insulated Boots	Утеплённые ботинки	GEAR_InsulatedBoots
+Обувь	2	Исключительный	Mukluks	Муклуки	GEAR_MuklukBoots
+Верхняя одежда	1	Редкий	Windbreaker	Ветровка	GEAR_BasicWinterCoat
+Верхняя одежда	1	Редкий	Light Shell	Лёгкая куртка	GEAR_SkiJacket
+Верхняя одежда	1	Редкий	Simple Parka	Простая парка	GEAR_LightParka
+Верхняя одежда	1	Очень редкий	Ski Jacket	Лыжная куртка	GEAR_DownSkiJacket
+Верхняя одежда	1	Очень редкий	Urban Parka	Городская парка	GEAR_DownParka
+Верхняя одежда	1	Очень редкий	Military Coat	Армейская шинель	GEAR_MilitaryParka
+Верхняя одежда	1	Очень редкий	Old Fashioned Parka	Старомодная парка	GEAR_HeavyParka
+Верхняя одежда	1	Исключительный	Expedition Parka	Экспедиционная парка	GEAR_PremiumWinterCoat
+Верхняя одежда	1	Исключительный	Mariner's Pea Coat	Морской бушлат	GEAR_QualityWinterCoat
+Верхняя одежда	1	Исключительный	Mackinaw Jacket	Куртка «Макино»	GEAR_MackinawJacket
+Верхняя одежда	1	Исключительный	Flight Jacket	Лётная куртка (DLC)	GEAR_JacketLeatherFlightA

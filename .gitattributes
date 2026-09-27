@@ -1,0 +1,4 @@
+# Design data and generators must keep LF: a CR at the end of a line ends up in item prefab names.
+*.tsv text eol=lf
+*.awk text eol=lf
+docs/data/*.txt text eol=lf

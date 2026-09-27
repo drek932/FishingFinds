@@ -1,0 +1,43 @@
+Хлам, дерево и материалы	35	Обычный	Revolver Shell Casing	Револьверная гильза	GEAR_RevolverAmmoCasing
+Хлам, дерево и материалы	35	Редкий	Cash	Пачка денег (шутка)	GEAR_CashBundle
+Хлам, дерево и материалы	35	Редкий	Coal	Каменный уголь	GEAR_Coal
+Хлам, дерево и материалы	35	Исключительный	Gold Nugget	Золотой самородок	GEAR_GoldNugget
+Природное	9	Очень редкий	Acorns	Жёлуди	GEAR_Acorn
+Природное	9	Очень редкий	Rose Hip	Шиповник	GEAR_RoseHip
+Природное	9	Очень редкий	Reishi Mushroom	Гриб рейши	GEAR_ReishiMushroom
+Природное	9	Очень редкий	Burdock Root	Корень лопуха	GEAR_Burdock
+Рыбалка и стрелы	12	Редкий	Simple Fishing Lure	Простая блесна	GEAR_FishingLureA
+Еда	13	Редкий	Peanut Butter	Арахисовая паста	GEAR_PeanutButter
+Еда	13	Редкий	Pickles	Маринованные огурцы	GEAR_Pickles
+Еда	13	Редкий	Tin of Coffee	Банка кофе	GEAR_CoffeeTin
+Еда	13	Редкий	Canned Corn	Консервированная кукуруза (DLC)	GEAR_CannedCorn
+Еда	13	Редкий	Canned Ham	Консервированная ветчина (DLC)	GEAR_CannedHam
+Еда	13	Редкий	Canned Pineapple	Консервированные ананасы (DLC)	GEAR_CannedPineapple
+Огонь, сигналы и боеприпасы	8	Очень редкий	Scrap Lead	Свинцовый лом	GEAR_ScrapLead
+Огонь, сигналы и боеприпасы	8	Исключительный	Can of Gunpowder	Банка пороха	GEAR_GunpowderCan
+Инструменты и снаряжение	3	Исключительный	Cooking Pot	Котелок	GEAR_CookingPot
+Инструменты и снаряжение	3	Исключительный	Cooking Skillet	Сковорода (DLC)	GEAR_Skillet
+Инструменты и снаряжение	3	Исключительный	Insulated Flask	Термос	GEAR_InsulatedFlask_A
+Инструменты и снаряжение	3	Исключительный	Storm Lantern	Штормовой фонарь	GEAR_KeroseneLampB
+Инструменты и снаряжение	3	Исключительный	Heavy Hammer	Тяжёлый молот	GEAR_Hammer
+Медицина	2	Очень редкий	Vitamin-C Pills	Витамин C (DLC)	GEAR_BottleVitaminC
+Медицина	2	Очень редкий	Caffeine Pills	Таблетки кофеина (DLC)	GEAR_BottleCaffeine
+Медицина	2	Очень редкий	Heat Pack	Грелка	GEAR_HeatPad
+Мелкая одежда и обувь	12	Редкий	Wool Ear Wrap	Шерстяная повязка на уши	GEAR_EarMuffs
+Мелкая одежда и обувь	12	Очень редкий	Technical Balaclava	Техническая балаклава (DLC)	GEAR_HatGatorBalaclavaA
+Мелкая одежда и обувь	12	Очень редкий	Tactical Gloves	Тактические перчатки (DLC)	GEAR_TacticalGloves
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Socks (Moose)	Шерстяные носки с лосями (DLC)	GEAR_SockMoose
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Socks (Plaid)	Шерстяные носки в клетку (DLC)	GEAR_SockPlaid
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Socks (Dots)	Шерстяные носки в горошек (DLC)	GEAR_SockDots
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Mittens (Brown)	Коричневые варежки с узором (DLC)	GEAR_MittenBrownStripe
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Mittens (Burgundy)	Бордовые варежки с узором (DLC)	GEAR_MittenBurgundyPattern
+Мелкая одежда и обувь	12	Исключительный	Patterned Wool Mittens (Blue)	Синие варежки с узором (DLC)	GEAR_MittenBlueStripe
+Одежда и верхняя одежда	6	Исключительный	T-Shirt (GBI)	Футболка «GBI» (DLC)	GEAR_TShirtGBI
+Одежда и верхняя одежда	6	Исключительный	T-Shirt (CM)	Футболка «CM» (DLC)	GEAR_TShirtCM
+Одежда и верхняя одежда	6	Исключительный	T-Shirt (Snappy)	Футболка «Snappy» (DLC)	GEAR_TShirtSnappy
+Одежда и верхняя одежда	6	Исключительный	Tactical Jacket	Тактическая куртка (DLC)	GEAR_TacticalJacket
+Еда	13	Редкий	Running River Oats	Овсянка в банке (DLC)	GEAR_OatsTin
+Огонь, сигналы и боеприпасы	8	Очень редкий	Firelog	Прессованное полено	GEAR_Firelog
+Рыбалка и стрелы	12	Очень редкий	Manufactured Arrow	Фабричная стрела	GEAR_ArrowManufactured
+Инструменты и снаряжение	3	Исключительный	Survival Knife	Нож выживания (DLC)	GEAR_SurvivalKnife
+Хлам, дерево и материалы	35	Редкий	FastFilm	Плёнка для фотоаппарата, 3 вида (DLC)	GEAR_FilmBoxColour,GEAR_FilmBoxBW,GEAR_FilmBoxSepia

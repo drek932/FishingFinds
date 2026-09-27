@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <!-- Offline check of the loot roll: runs the mod's own drawing code a million times. Not part of the mod. -->
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
+    <RollForward>Major</RollForward>
+    <TLDPath Condition="'$(TLDPath)' == ''">C:\Games\The Long Dark</TLDPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FishingFinds" HintPath="..\..\bin\Release\FishingFinds.dll" />
+    <Reference Include="MelonLoader" HintPath="$(TLDPath)\MelonLoader\net6\MelonLoader.dll" />
+  </ItemGroup>
+</Project>
