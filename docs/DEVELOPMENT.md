@@ -68,8 +68,8 @@ The design source is in `docs/data/`:
 |---|---|
 | `beachcombing.tsv` | Items from Beachcombing: category, share, rarity, English and Russian name, prefab name(s) |
 | `added.tsv` | Items this mod adds (not in Beachcombing) |
-| `removed.tsv` | Beachcombing items left out by default (can be turned back on), with their home category and rarity |
-| `rejected.tsv` | Items considered and not added, with the reason |
+| `removed.tsv` | Beachcombing items left out by default (can be turned back on), with their home category, rarity and the reason (RU, EN) |
+| `rejected.tsv` | Items considered and not added, with the reason (RU, EN) |
 | `high_difficulty.txt` | Prefabs the game disables on Interloper/Misery; made from `xp-report.txt` (a dump of `DisableObjectForXPMode` on each prefab) |
 | `archive/` | Older table versions, kept for history |
 
@@ -78,7 +78,8 @@ Generated from it:
 ```bash
 cd docs/data
 awk -f gen_cs.awk high_difficulty.txt beachcombing.tsv added.tsv removed.tsv > ../../Core/DefaultTable.cs
-awk -f gen.awk beachcombing.tsv added.tsv removed.tsv rejected.tsv > ../loot-table.md
+awk -v lang=en -f gen.awk beachcombing.tsv added.tsv removed.tsv rejected.tsv > ../loot-table.md
+awk -v lang=ru -f gen.awk beachcombing.tsv added.tsv removed.tsv rejected.tsv > ../loot-table.ru.md
 ```
 
 ```bash
