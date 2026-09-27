@@ -45,6 +45,7 @@ Every category was tuned separately. The chance of each of the 173 items was set
 The better your ice fishing skill, the more often the ice shares its secrets — and the most valuable items open up only to an experienced fisherman. Levelling ice fishing matters again.
 
 Playing Interloper or Misery? One checkbox in the settings, and the mod follows the same rules as the game: nothing that shouldn't exist on that difficulty.
+
 But I don't recommend it. The balance is already built so that valuable finds stay rare and don't break the challenge. The checkbox doesn't make the game fairer — it just turns about every fifth find back into a fish and removes all the added items.
 
 ---
