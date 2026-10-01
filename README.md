@@ -77,6 +77,11 @@ The full table with the chance of every item is in [docs/loot-table.md](docs/loo
 Put `FishingFinds.dll` into the game's `Mods` folder.
 To remove the mod, delete `FishingFinds.dll`, plus `FishingFinds.json` and `FishingFinds_Loot.json` from the same folder. The mod doesn't touch your saves.
 
+## Support the Author
+
+If you enjoy my work and would like to support the creation of new mods, you can make a voluntary donation on Ko-fi.
+(https://ko-fi.com/drek932)
+
 ---
 
 Author: **drek932**
